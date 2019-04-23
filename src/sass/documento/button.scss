@@ -1,0 +1,11 @@
+.btn-boton{
+    color: #fff;
+    background: rgb(38, 137, 250);
+    font-size: 20px;
+    border: 0px ;
+    outline: none;
+    padding: 5px;
+    &:hover{
+        background: rgb(7, 116, 241);
+    }
+}
